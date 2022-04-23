@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Saif Shahriar [ZidXavior][LinkedIn]👋</h1>
+<h1 align="center">Hello there, I'm Saif Shahriar [ZidXavior][LinkedIn]👋</h1>
 <h3 align="center">## I'm a Entrepreneur, Learner, and Teacher!!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zidxavior&label=Profile%20views&color=0e75b6&style=flat" alt="zidxavior" /> </p>
@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **"JATRA"**
 
-- 🌱 I’m currently learning **Evrithing**
+- 🌱 I’m currently learning **Everithing**
 
 - 👯 I’m looking to collaborate on **other programmers**
 

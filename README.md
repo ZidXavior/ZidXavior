@@ -1,4 +1,4 @@
-<h1 align="center" style="color:blue;>Hello there,  I'm Saif Shahriar👋</h1>
+<h1 align="center">Hello there,  I'm Saif Shahriar👋</h1>
 <h3 align="center"> I'm a Entrepreneur, Learner, and Teacher!!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zidxavior&label=Profile%20views&color=0e75b6&style=flat" alt="zidxavior" /> </p>

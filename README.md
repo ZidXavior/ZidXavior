@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **"JATRA"**
 
-- 🌱 I’m currently learning **Everithing**
+- 🌱 I’m currently learning **Everything**
 
 - 👯 I’m looking to collaborate on **other programmers**
 

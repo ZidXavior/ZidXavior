@@ -1,5 +1,5 @@
 <h1 align="center">Hello there,  I'm MD Saif Shahriar Zidan👋</h1>
-<h3 align="center"> I'm an Entrepreneur, Learner, and teacher!</h3>
+<h3 align="center"> I'm an Entrepreneur, IT Expert , and Learner!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zidxavior&label=Profile%20views&color=0e75b6&style=flat" alt="zidxavior" /> </p>
 
@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate with other **programmers**
 
-- 💬 Ask me aboutproductive things.*
+- 💬 Ask me about productive things.
 
 - 📫 How to reach me **saifshahriar111@gmail.com**
 

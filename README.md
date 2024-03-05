@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zidxavior" alt="zidxavior" /></a> </p>
 
-- 🔭 I’m currently working on **JATRA & AI Based Real Time Attendance Management System **
+- 🔭 I’m currently working on **JATRA & AI Based Real Time based face detection and recognition for smart attendence System **
 
 - 🌱 I’m currently learning **Everything**
 
